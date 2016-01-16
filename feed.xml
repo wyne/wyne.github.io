@@ -5,8 +5,8 @@
     <description>Make the footer happy by entering a short description about yourself here</description>
     <link>http://justinwyne.com/</link>
     <atom:link href="http://justinwyne.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Jan 2016 23:06:31 -0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 23:06:31 -0800</lastBuildDate>
+    <pubDate>Sat, 16 Jan 2016 02:45:32 -0800</pubDate>
+    <lastBuildDate>Sat, 16 Jan 2016 02:45:32 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -37,6 +37,62 @@
 
 &lt;div class=&quot;post-image&quot;&gt;
   &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; /&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&quot;my-gallery&quot; itemscope itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
+
+    
+        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
+            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
+          &lt;/a&gt;
+          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      
+    
+        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
+            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
+          &lt;/a&gt;
+          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      
+    
+        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
+            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
+          &lt;/a&gt;
+          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      
+    
+        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
+            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
+          &lt;/a&gt;
+          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      
+    
+        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
+            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
+          &lt;/a&gt;
+          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      
+    
+        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
+          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
+            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
+          &lt;/a&gt;
+          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
+        &lt;/figure&gt;
+      
+
 &lt;/div&gt;
 
 
