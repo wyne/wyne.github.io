@@ -5,206 +5,120 @@
     <description>Make the footer happy by entering a short description about yourself here</description>
     <link>http://justinwyne.com/</link>
     <atom:link href="http://justinwyne.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 16 Jan 2016 02:45:32 -0800</pubDate>
-    <lastBuildDate>Sat, 16 Jan 2016 02:45:32 -0800</lastBuildDate>
+    <pubDate>Sun, 17 Jan 2016 03:58:43 -0800</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2016 03:58:43 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Lover&#39;s Leap</title>
-        <description>&lt;p&gt;Surrealistic Pillar&lt;/p&gt;
-
-&lt;div class=&quot;video large&quot;&gt;
-  &lt;div class=&quot;video-container &quot;&gt;
-    &lt;iframe 
-    width=&quot;1124&quot; 
-    height=&quot;600&quot; 
-    src=&quot;http://www.youtube.com/embed/FLjosPQPZPo?&amp;autoplay=0&amp;rel=0&amp;loop=1&amp;disablekb=1&amp;controls=0&amp;hd=1&amp;autohide=1&quot; 
-    frameborder=&quot;0&quot; 
-    allowfullscreen&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Some other stuff&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;https://farm2.staticflickr.com/1460/23705004503_148cea488c_k.jpg&quot; /&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;nice&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; /&gt;
-&lt;/div&gt;
-
-
-
-
-&lt;div class=&quot;my-gallery&quot; itemscope itemtype=&quot;http://schema.org/ImageGallery&quot;&gt;
-
-    
-        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
-            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
-          &lt;/a&gt;
-          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-      
-    
-        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
-            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
-          &lt;/a&gt;
-          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-      
-    
-        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
-            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
-          &lt;/a&gt;
-          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-      
-    
-        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
-            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
-          &lt;/a&gt;
-          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-      
-    
-        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
-            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
-          &lt;/a&gt;
-          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-      
-    
-        &lt;figure itemprop=&quot;associatedMedia&quot; itemscope itemtype=&quot;http://schema.org/ImageObject&quot;&gt;
-          &lt;a href=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot; itemprop=&quot;contentUrl&quot; data-size=&quot;2048x1272&quot;&gt;
-            &lt;img src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd.jpg&quot; itemprop=&quot;thumbnail&quot; alt=&quot;Image description&quot; /&gt;
-          &lt;/a&gt;
-          &lt;figcaption itemprop=&quot;caption description&quot;&gt;&lt;/figcaption&gt;
-        &lt;/figure&gt;
-      
-
-&lt;/div&gt;
-
-
-&lt;p&gt;That&#39;s all folks!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 10 Oct 2015 05:00:00 -0700</pubDate>
-        <link>http://justinwyne.com/Lovers-Leap/</link>
-        <guid isPermaLink="true">http://justinwyne.com/Lovers-Leap/</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>New Jack City</title>
-        <description>&lt;p&gt;Here&#39;s my tent.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;section class=&quot;post-location&quot;&gt;
+  &lt;div class=&quot;post-map&quot;&gt;
+    &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457849.1853550896!2d-119.13922962019747!3d34.87873920397097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c48fe95cd68ee3%3A0x36c22f3f15144b87!2sNew+Jack+City!5e0!3m2!1sen!2sus!4v1453029125713&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;post-location-summary&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;9 hour&lt;/b&gt; drive from &lt;i&gt;San Francisco, CA&lt;/i&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;9 hour&lt;/b&gt; drive from &lt;i&gt;San Francisco, CA&lt;/i&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;&lt;/p&gt;
 
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;https://c2.staticflickr.com/2/1663/24304867826_5c3bc3ea0a_k_d.jpg&quot; /&gt;
-&lt;/div&gt;
+&lt;p&gt;Here&#39;s my tent.&lt;/p&gt;
 
-
-&lt;p&gt;Some story about this night shot goes here.&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;https://c2.staticflickr.com/2/1498/24248539821_63f955ff56_k_d.jpg&quot; /&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;More tent&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;https://c2.staticflickr.com/2/1598/24222854592_210ee5184a_k_d.jpg&quot; /&gt;
-&lt;/div&gt;
-
-
-
-</description>
-        <pubDate>Wed, 08 Jul 2015 10:39:55 -0700</pubDate>
-        <link>http://justinwyne.com/new-jack-city/</link>
-        <guid isPermaLink="true">http://justinwyne.com/new-jack-city/</guid>
-        
-        
-      </item>
+&lt;div class=&quot;photoset-grid&quot; data-layout=&quot;23&quot;&gt;
     
-      <item>
-        <title>Red Rocks</title>
-        <description>&lt;p&gt;Located about 30 miles due south of the world famous Yosemite Valley, Shuteye
-Ridge is home to countless sport, trad, and bouldering climbs. 4WD vehicles
-recommended.&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/1885x500&quot; /&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Using a little bit of markup, you can add beautiful captions to your totally
-beautiful pictures. Amazing.&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/935x300&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 08 Jul 2015 10:39:55 -0700</pubDate>
-        <link>http://justinwyne.com/red-rocks/</link>
-        <guid isPermaLink="true">http://justinwyne.com/red-rocks/</guid>
-        
-        
-      </item>
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
     
-      <item>
-        <title>Pinnacles</title>
-        <description>&lt;p&gt;Pinnacles&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/1885x500&quot; /&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Using a little bit of markup, you can add beautiful captions to your totally
-beautiful pictures. Amazing.&lt;/p&gt;
-
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/935x300&quot; /&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Wed, 08 Jul 2015 10:39:55 -0700</pubDate>
-        <link>http://justinwyne.com/pinnacles/</link>
-        <guid isPermaLink="true">http://justinwyne.com/pinnacles/</guid>
-        
-        
-      </item>
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
     
-      <item>
-        <title>Shuteye Ridge</title>
-        <description>&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/1885x500&quot; /&gt;
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
 &lt;/div&gt;
 
 
-&lt;p&gt;Using a little bit of markup, you can add beautiful captions to your totally
-beautiful pictures. Amazing.&lt;/p&gt;
 
-&lt;div class=&quot;post-image&quot;&gt;
-  &lt;img src=&quot;http://placehold.it/935x300&quot; /&gt;
+
+&lt;div class=&quot;photoset-grid&quot; data-layout=&quot;23&quot;&gt;
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
+    
+          &lt;img src=&quot;data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=&quot; data-src=&quot;https://farm2.staticflickr.com/1632/24036221740_4ed2936ffd_b.jpg&quot;
+            data-highres=&quot;https://farm2.staticflickr.com/1632/24036221740_6f44afd75c_k.jpg&quot;
+            data-size=&quot;2048x1272&quot;
+            width=&quot;2048&quot;
+            height=&quot;1272&quot;
+          /&gt;
+      
 &lt;/div&gt;
 
 </description>
         <pubDate>Wed, 08 Jul 2015 10:39:55 -0700</pubDate>
-        <link>http://justinwyne.com/shuteye/</link>
-        <guid isPermaLink="true">http://justinwyne.com/shuteye/</guid>
+        <link>http://justinwyne.com/new-jack/</link>
+        <guid isPermaLink="true">http://justinwyne.com/new-jack/</guid>
         
         
       </item>

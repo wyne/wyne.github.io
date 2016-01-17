@@ -8,83 +8,51 @@
     <meta name="description" content="Make the footer happy by entering a short description about yourself here">
     <link rel="canonical" href="http://justinwyne.com/">
 
-    <!-- Custom CSS -->
+    <!-- Bower CSS -->
+    <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/screen.css">
+
+    <!-- Custom CSS -->
     <link href='//fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,700,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,700,900' rel='stylesheet' type='text/css'>
-    <!-- Core CSS file -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css">
 
-<!-- Skin CSS file (styling of UI - buttons, caption, etc.)
-     In the folder of skin CSS file there are also:
-     - .png and .svg icons sprite,
-     - preloader.gif (for browsers that do not support CSS animations) -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css">
-
-<!-- Core JS file -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js"></script>
-
-<!-- UI JS file -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js"></script>
+    <!-- JS -->
+    <!-- TODO: move out dependencies -->
+    <script type="text/javascript" src="/js/main.js"></script>
 </head>
 
     <body>
       <header class="">
-    <div class="title">
-        <a href="/">
-            <span class="first">justin</span><span class="last">@wyne</span>
-        </a>
-    </div>
-    <summary>
-        Rock Climbing, Travel, Photography, Software Engineering
-    </summary>
+    <hgroup>
+        <h1>
+            <a href="/">
+                <span class="first">justin</span><span class="last">@wyne</span>
+            </a>
+        </h1>
+        <!--<span class="description">-->
+            <!--Rock Climbing, Travel, Photography, Software Engineering-->
+        <!--</span>-->
+    </hgroup>
     <nav>
         <ul>
             <li><a href="/about">About</a></li>
             <li><a href="/">Photos</a></li>
-            <li><a href="/dev">Dev</a></li>
-            <li><a href="#">ClimbTime</a></li>
+            <!--<li><a href="/dev">Dev</a></li>-->
         </ul>
     </nav>
 </header>
-      <div class="wrap">
-    <p>
-        Are you a climber? Join us in the ClimbTime Slack.
-    </p>
-</div>
+      <!--<div class="wrap">-->
+    <!--<p>-->
+        <!--Are you a climber? Join us in the ClimbTime Slack.-->
+    <!--</p>-->
+<!--</div>-->
 
 <!-- This loops through the paginated posts -->
-<section class="photoset-grid">
+<section class="post-grid">
     <ul>
         
             <li>
-    <a href="/Lovers-Leap/">
-        
-
-        <article>
-            <div class="preview-thumb">
-                <img class="content"
-                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-                     data-src="https://farm2.staticflickr.com/1688/23704998673_e9ca052254.jpg">
-                <div class="overlay">
-                    <figcaption>
-                        <h1>
-                            Lover's Leap
-                        </h1>
-                        <div class="when">
-                            October, 2015<br>
-                        </div>
-                        <div class="clear"></div>
-                    </figcaption>
-                </div>
-            </div>
-        </article>
-    </a>
-</li>
-
-        
-            <li>
-    <a href="/new-jack-city/">
+    <a href="/new-jack/">
         
 
         <article>
@@ -96,84 +64,6 @@
                     <figcaption>
                         <h1>
                             New Jack City
-                        </h1>
-                        <div class="when">
-                            July, 2015<br>
-                        </div>
-                        <div class="clear"></div>
-                    </figcaption>
-                </div>
-            </div>
-        </article>
-    </a>
-</li>
-
-        
-            <li>
-    <a href="/red-rocks/">
-        
-
-        <article>
-            <div class="preview-thumb">
-                <img class="content"
-                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-                     data-src="https://farm2.staticflickr.com/1462/24057434010_24bea2bffb.jpg">
-                <div class="overlay">
-                    <figcaption>
-                        <h1>
-                            Red Rocks
-                        </h1>
-                        <div class="when">
-                            July, 2015<br>
-                        </div>
-                        <div class="clear"></div>
-                    </figcaption>
-                </div>
-            </div>
-        </article>
-    </a>
-</li>
-
-        
-            <li>
-    <a href="/pinnacles/">
-        
-
-        <article>
-            <div class="preview-thumb">
-                <img class="content"
-                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-                     data-src="https://farm2.staticflickr.com/1660/24035529410_3a9151cde4.jpg">
-                <div class="overlay">
-                    <figcaption>
-                        <h1>
-                            Pinnacles
-                        </h1>
-                        <div class="when">
-                            July, 2015<br>
-                        </div>
-                        <div class="clear"></div>
-                    </figcaption>
-                </div>
-            </div>
-        </article>
-    </a>
-</li>
-
-        
-            <li>
-    <a href="/shuteye/">
-        
-
-        <article>
-            <div class="preview-thumb">
-                <img class="content"
-                     src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
-                     data-src="https://farm2.staticflickr.com/1540/23702610344_f53db86d47.jpg">
-                <div class="overlay">
-                    <figcaption>
-                        <h1>
-                            Shuteye Ridge
                         </h1>
                         <div class="when">
                             July, 2015<br>
@@ -210,8 +100,9 @@
     </div>
 </footer>
 
-      <script type="text/javascript" src="/js/travelog.js"></script>
     </body>
+
+  <!--Lazy load images-->
   <script>
     function init() {
       var imgDefer = document.getElementsByTagName('img');
@@ -220,5 +111,17 @@
           imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
         } } }
     window.onload = init;
+  </script>
+
+  <!--Google Analytics-->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-446897-3', 'auto');
+    ga('send', 'pageview');
+
   </script>
 </html>
